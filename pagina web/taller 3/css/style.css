@@ -136,7 +136,7 @@ body {
     
     footer {
       padding: 10px ;
-      background-color: #f3b582;
+      background-color: #df977b;
     }
     .container-fluid{
         background-image: url(https://img.freepik.com/vector-premium/gota-sangre-divertida-feliz-linda-corazon-burbuja-discurso-ilustracion-personaje-kawaii-dibujos-animados-linea-plana_92289-1910.jpg);
@@ -237,5 +237,8 @@ body {
         border-radius: 10px;  
         width: 420px;   
         cursor: pointer;
+      }
+      .card{
+        background-color: #f0aaa1;
       }
       
